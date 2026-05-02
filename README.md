@@ -7,6 +7,7 @@ A 3D endless runner game built using Unity and C#.
 * Player movement (left / right)
 * Jump system
 * Running animation
+* stumble backward animation
 * Obstacle avoidance
 
 ## 🎮 Controls
